@@ -83,8 +83,7 @@ To deliver an **interactive and data-driven solution** that:
 ### 6. Screenshots / Demos  
 Here is a preview of the **Blinkit Sales Analysis Dashboard**:  
 
-![Dashboard Preview](https://github.com/themukeshsingh01/Blinkit-Analysis-Project/blob/main/Snapshot%20Of%20The%20Dashboard.png)
-
+![Dashboard Preview](https://github.com/themukeshsingh01/Blinkit-Analysis-Project/blob/main/Blinkit%20Sales%20Dashboaard/Snapshot%20Of%20The%20Dashboard.png)
 
 ---
 
